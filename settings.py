@@ -1,0 +1,8 @@
+#This file is the settings for 
+TILESIZE = 32
+
+ROWS = 10
+COLM = 15
+
+WINDOW_WIDTH = COLM * TILESIZE
+WINDOW_HEIGHT = ROWS * TILESIZE
